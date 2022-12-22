@@ -13,7 +13,7 @@ In this project, we aim to create a simple machine learning pipeline to synthesi
 
 The core of HOPE Generator is based on [GOAL](https://arxiv.org/pdf/2112.11454.pdf), therefore it requires to install its all dependencies.
 
-All experiments were done and tested using NVIDIA Tesla V100, and CUDA toolkit 11.6.
+All experiments were done and tested using Red Hat Enterprise Linux Server 7.7 (Maipo), NVIDIA Tesla V100, and CUDA toolkit 11.6.
 
 Environment setup:
 
